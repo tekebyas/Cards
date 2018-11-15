@@ -4,6 +4,6 @@ run: main
 	@echo "Running:"
 	@./main
 edit:
-	@vim *.cpp
+	@vim main.cpp
 clean: main
 	@rm main
